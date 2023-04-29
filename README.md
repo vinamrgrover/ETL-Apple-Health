@@ -1,5 +1,9 @@
 # Apple Health ETL Project
 
+## Architecture Diagram
+
+![Apple_Health_ETL drawio](https://user-images.githubusercontent.com/100070155/235325889-724ea75c-7f6d-46ff-8345-99963219603b.png)
+
 ## Description
 This project involves an **ETL** (Extract, Transform, Load) process to analyze sleep data exported from Apple Health to iCloud in XML format. 
 
