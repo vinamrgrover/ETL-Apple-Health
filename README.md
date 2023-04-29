@@ -102,7 +102,14 @@ Add the following line to the editor:
 
 ```@reboot /home/ec2-user/.local/bin/streamlit run /home/ec2-user/<path_to_streamlit_app> --server.port 8501```
 
+
 Replace the `path_to_streamlit_app` with path to your Streamlit App
 
 Now whenever the EC2 instance restarts, the Streamlit app will automatically run on port `8501`
+
+## Streamlit Dashboard
+
+Here's a quick look of the Streamlit Dashboard hosted on EC2: 
+
+https://user-images.githubusercontent.com/100070155/235328411-224b38f5-185e-41cb-8aeb-579d519f4a13.mov
 
